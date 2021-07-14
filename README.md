@@ -2,7 +2,7 @@
 
 Muğla Sıtkı Koçam Üniversitesi Bilişim Sistemleri Mühendisliği 1. sınıf öğrencisiyim. Python öğrenmeye çalışıyorum..
 
-                                           💻REYHAN K.
+                                                           💻REYHAN K.
 
 <!--
 **reycodart/reycodart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
